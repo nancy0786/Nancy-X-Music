@@ -1,0 +1,7 @@
+python-telegram-bot
+git+https://github.com/pytgcalls/pytgcalls.git
+pyrogram
+pytube
+apscheduler
+asyncio
+logging
