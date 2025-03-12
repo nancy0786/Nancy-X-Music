@@ -1,10 +1,9 @@
-pip
-setuptools
-wheel
+setuptools>=65.0.0
+wheel>=0.37.0
 python-telegram-bot==21.1.1
 pyrogram==2.0.106
 tgcrypto
-pytube==15.0.0
+pytube==12.1.0
 APScheduler==3.11.0
 logging==0.4.9.6
 git+https://github.com/pytgcalls/pytgcalls.git
