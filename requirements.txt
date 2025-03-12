@@ -1,7 +1,9 @@
-python-telegram-bot
+pip setuptools wheel
+python-telegram-bot==21.1.1
+pyrogram==2.0.106
+tgcrypto
+pytube==15.0.0
+APScheduler==3.11.0
+logging==0.4.9.6
 git+https://github.com/pytgcalls/pytgcalls.git
-pyrogram
-pytube
-apscheduler
 asyncio
-logging
